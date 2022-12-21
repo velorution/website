@@ -1,5 +1,6 @@
 <template>
 <div>
+<title> Pour une vraie intégration du vélo à Cherbourg-en-Cotentin</title>
     <NavBar/>
     <HeroHeader/>
     <PartenaireSection/>
