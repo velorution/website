@@ -16,9 +16,6 @@
 <div class="px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed">
   <p class="pb-6">Vous avez des vélos à vendre ? Vous cherchez un vélo d'occasion ? L'association Vélorution organise une bourse aux vélos le samedi 21 mai de 10h00 à 16h30 à l'Espace René Le Bas, à l'occasion du festival du livre jeunesse de Cherbourg-en-Cotentin. 
     Vous pourrez aussi faire graver vos vélos. Venez nombreux !</p>
-  <p class="pb-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias, quod. Cumque vel expedita corporis,
-     tenetur voluptates adipisci,
-     quod modi ad deserunt consequuntur sequi esse fugit debitis sunt suscipit quaerat dolorem.</p>
 </div>
  
 
