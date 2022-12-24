@@ -64,6 +64,15 @@
             Télécharger le plan vélo de vélorution : <a href="/diaporama1.pdf" download="">Diaporama 1</a> , <a href="/diaporama2.pdf" download="">Diaporama 2</a> , <a href="/diaporama3.pdf" download="">Diaporama 3</a>
         </p>
         <br>
+        
+         <h2>Les communiqués de presse de Vélorution</h2>
+        <br>
+        <br>
+        <p>
+            Télécharger les communiqués de presse : <a href="/Etat des pistes.pdf" download="">Etat des pistes </a> , <a href="/Note sur panneaux stop.pdf" download="">Note sur panneaux stop</a> , <a href="/Occupations irrégulières de pistes et bandes cyclables" download="">Occupations irrégulières de pistes et bandes cyclables</a>
+        </p>
+        <br>
+        <br>
         <br>
         <br>
         <br>
