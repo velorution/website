@@ -61,7 +61,7 @@
         <br>
         <br>
         <p>
-            Télécharger le plan vélo de vélorution : <a href="@/static/diaporama1.pdf" download="">Diaporama 1</a> , <a href="@/static/diaporama2.pdf" download="">Diaporama 2</a> , <a href="@/static/diaporama3.pdf" download="">Diaporama 3</a>
+            Télécharger le plan vélo de vélorution : <a href="/diaporama1.pdf" download="">Diaporama 1</a> , <a href="/diaporama2.pdf" download="">Diaporama 2</a> , <a href="/diaporama3.pdf" download="">Diaporama 3</a>
         </p>
         <br>
         <br>
