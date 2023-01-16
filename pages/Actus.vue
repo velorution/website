@@ -8,36 +8,22 @@
   <img src="@/assets/cyclistesbrillez.jpeg" class="absolute left-0 top-0 w-full h-full z-0 object-cover" />
   <div class="p-4 absolute bottom-0 left-0 z-20">
     <a href="#" class="px-4 py-1 bg-black text-gray-200 inline-flex items-center justify-center mb-2">26/01/2023</a>
-    <h2 class="text-4xl font-semibold text-gray-100 leading-tight">Assemblée Générale</h2>
+    <h2 class="text-4xl font-semibold text-gray-100 leading-tight">📢 Assemblée générale</h2>
     <div class="flex mt-3">
     </div>
   </div>
 </div>
 <div class="px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed">
   <p class="pb-6">
-    L'assemblée générale extraordinaire de vélorution cherbourg se tiendra le 26 janvier 2023 prochain à 20h30, Salle de la Fraternelle, Cherbourg en Cotentin.
+    Vous souhaitez voir le vélo se développer sur Cherbourg-en Cotentin et au-delà ? Vous allez adoré l'AG 2023 🚲😍🚲 + AG extraordinaire
     <br><br>
 
-Ordre du jour
-<br>
-
-modifications des statuts
-<br>
-
-Elle sera suivie de l'ASSEMBLÉE GÉNÉRALE ORDINAIRE de l'Association, avec pour ordre du jour :
-<br>
-
-1- rapport moral et financier 2022
-<br>
-2- renouvellement du comité exécutif
-<br>
-2- orientations pour 2023
-<br>
-3- suivi de l'exécution du Schéma Directeur Cyclable
-<br>
-4- questions diverses dont "bourse aux vélos 2023"
-<br>
-Tous les membres de l'association sont invités à participer à ces Assemblées. Les personnes sympathisantes ou intéressées à la vie de l'association sont également bienvenues.</p>
+    Au programme ⤵️ <br>
+  Adoption des nouveaux statuts <br>
+  Renouvellement du comité exécutif <br>
+  Orientations pour 2023 <br>
+Infos et actualités dont "bourse aux vélos 2023" <br>
+➡️En route pour de belles réalisations favorisant la #SolutionVélo au quotidien
 <br>
 </div>
 
