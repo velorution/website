@@ -15,7 +15,7 @@
 </div>
 <div class="px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed">
   <p class="pb-6">
-    l'assemblée générale extraordinaire de vélorution cherbourg se tiendra le 26 janvier 2023 prochain à 20h30, Salle de la Fraternelle, Cherbourg en Cotentin.
+    L'assemblée générale extraordinaire de vélorution cherbourg se tiendra le 26 janvier 2023 prochain à 20h30, Salle de la Fraternelle, Cherbourg en Cotentin.
     <br><br>
 
 Ordre du jour
