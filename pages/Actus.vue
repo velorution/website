@@ -15,7 +15,8 @@
 </div>
 <div class="px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed">
   <p class="pb-6">
-    Vous souhaitez voir le vélo se développer sur Cherbourg-en Cotentin et au-delà ? Vous allez adoré l'AG 2023 🚲😍🚲 + AG extraordinaire
+    Vous souhaitez voir le vélo se développer sur Cherbourg-en Cotentin et au-delà ? Vous allez adoré l'AG 2023 🚲😍🚲 + AG extraordinaire. <br>
+    Le 26 janvier à 20h30. Salle Gambetta, 46 rue Gambetta à Cherbourg
     <br><br>
 
     Au programme ⤵️ <br>
