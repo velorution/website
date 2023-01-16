@@ -2,6 +2,47 @@
   <div>
   <NavBar/>
 
+  <div class="mb-4 md:mb-0 w-full max-w-screen-md mx-auto relative" style="height: 24em;">
+  <div class="absolute left-0 bottom-0 w-full h-full z-10"
+    style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
+  <img src="@/assets/cyclistesbrillez.jpeg" class="absolute left-0 top-0 w-full h-full z-0 object-cover" />
+  <div class="p-4 absolute bottom-0 left-0 z-20">
+    <a href="#" class="px-4 py-1 bg-black text-gray-200 inline-flex items-center justify-center mb-2">26/01/2023</a>
+    <h2 class="text-4xl font-semibold text-gray-100 leading-tight">Assemblé Générale</h2>
+    <div class="flex mt-3">
+    </div>
+  </div>
+</div>
+<div class="px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed">
+  <p class="pb-6">
+    l'ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE de VÉLORUTION CHERBOURG se tiendra le 26 janvier 2023 prochain à 20h30, Salle de la Fraternelle, Cherbourg en Cotentin.
+    <br>
+
+Ordre du jour
+<br>
+
+modifications des statuts
+<br>
+
+Elle sera suivie de l'ASSEMBLÉE GÉNÉRALE ORDINAIRE de l'Association, avec pour ordre du jour :
+<br>
+
+1- rapport moral et financier 2022
+<br>
+2- renouvellement du comité exécutif
+<br>
+2- orientations pour 2023
+<br>
+3- suivi de l'exécution du Schéma Directeur Cyclable
+<br>
+4- questions diverses dont "bourse aux vélos 2023"
+<br>
+Tous les membres de l'association sont invités à participer à ces Assemblées. Les personnes sympathisantes ou intéressées à la vie de l'association sont également bienvenues.</p>
+<br>
+</div>
+
+</div>
+
 <div class="mb-4 md:mb-0 w-full max-w-screen-md mx-auto relative" style="height: 24em;">
   <div class="absolute left-0 bottom-0 w-full h-full z-10"
     style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
