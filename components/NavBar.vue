@@ -4,8 +4,8 @@
             <NuxtLink to="/" class="logo font-bold fonted"><img src="@/assets/logo.webp"></NuxtLink>
             <ul class="nav-items flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0 hidden md:block">
             <NuxtLink to="/"><li class="text-black hover:text-indigo-400">Accueil</li>           </NuxtLink>
-            <NuxtLink to="/PlanVélo"><li class="text-black hover:text-indigo-400">Le plan vélo</li> </NuxtLink>
-            <NuxtLink to="/InfosVélo"><li class="text-black hover:text-indigo-400">Infos vélo</li>   </NuxtLink>
+            <NuxtLink to="/Actions"><li class="text-black hover:text-indigo-400">Actions</li> </NuxtLink>
+            <NuxtLink to="/Actus"><li class="text-black hover:text-indigo-400">Actus</li>   </NuxtLink>
             <NuxtLink to="/ContactPage"><li class="text-black hover:text-indigo-400">Contact</li>    </NuxtLink>
             </ul>
             <button class="hamburger" :class="{active:navOpen}" @click="navOpen=!navOpen" >
@@ -22,8 +22,8 @@
         <div class="sidemenu__wrapper">
           <ul class="sidemenu__list">
             <li class="sidemenu__item"><NuxtLink to="/">Accueil</NuxtLink></li>
-            <li class="sidemenu__item"><NuxtLink to="/PlanVélo">Le plan vélo</NuxtLink></li>
-            <li class="sidemenu__item"><NuxtLink to="/InfosVélo">Infos vélo</NuxtLink></li>
+            <li class="sidemenu__item"><NuxtLink to="/Actions">Actions</NuxtLink></li>
+            <li class="sidemenu__item"><NuxtLink to="/Actus">Actus</NuxtLink></li>
             <li class="sidemenu__item"><NuxtLink to="/ContactPage">Contact</NuxtLink></li>
           </ul>
         </div>
