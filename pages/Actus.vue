@@ -1,6 +1,24 @@
 <template>
   <div>
   <NavBar/>
+  <div class="mb-4 md:mb-0 w-full max-w-screen-md mx-auto relative" style="height: 24em;">
+  <div class="absolute left-0 bottom-0 w-full h-full z-10"
+    style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
+  <img src="@/assets/BourseVélos2023.jpg" class="absolute left-0 top-0 w-full h-full z-0 object-cover" />
+  <div class="p-4 absolute bottom-0 left-0 z-20">
+    <a href="#" class="px-4 py-1 bg-black text-gray-200 inline-flex items-center justify-center mb-2">03/06/2023</a>
+    <h2 class="text-4xl font-semibold text-gray-100 leading-tight">Bourse aux vélos</h2>
+    <div class="flex mt-3">
+    </div>
+  </div>
+</div>
+<div class="px-4 lg:px-0 mt-12 text-gray-700 max-w-screen-md mx-auto text-lg leading-relaxed">
+  <p class="pb-6">
+    La 10e bourse aux vélos, c’est le 3 juin à L’espace René Le Bas à Cherbourg-en-Cotentin. Dépôt des vélos le matin et vente l’après-midi ! Venez rencontrer les bénévoles de l’association Velorution.
+    
+    <br><br>
+</p>
+</div>
 
   <div class="mb-4 md:mb-0 w-full max-w-screen-md mx-auto relative" style="height: 24em;">
   <div class="absolute left-0 bottom-0 w-full h-full z-10"
@@ -26,13 +44,14 @@
 Infos et actualités dont "bourse aux vélos 2023" <br>
 ➡️En route pour de belles réalisations favorisant la #SolutionVélo au quotidien
 <br>
+</p>
 </div>
 
 
 <div class="mb-4 md:mb-0 w-full max-w-screen-md mx-auto relative" style="height: 24em;">
   <div class="absolute left-0 bottom-0 w-full h-full z-10"
     style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
-  <img src="@/assets/79ebf9_8db6571e93ef494fbdfbdbefd4c73b09_mv2.webp" class="absolute left-0 top-0 w-full h-full z-0 object-cover" />
+  <img src="@/assets/BourseVélos2022.webp" class="absolute left-0 top-0 w-full h-full z-0 object-cover" />
   <div class="p-4 absolute bottom-0 left-0 z-20">
     <a href="#" class="px-4 py-1 bg-black text-gray-200 inline-flex items-center justify-center mb-2">21/05/2021</a>
     <h2 class="text-4xl font-semibold text-gray-100 leading-tight">Bourse aux vélos</h2>
